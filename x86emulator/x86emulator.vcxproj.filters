@@ -26,5 +26,8 @@
     <ClInclude Include="emulator.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="opcodes.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
